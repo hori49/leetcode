@@ -4,6 +4,7 @@
 # [88] Merge Sorted Array
 #
 
+from typing import List
 # @lc code=start
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
